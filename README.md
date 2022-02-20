@@ -1,4 +1,7 @@
-# zsh_config
+# DEPRECATED in favour of [.dotfiles](https://github.com/aateem/.dotfiles)
+
+
+## zsh_config
 
 ### Configuration
 
